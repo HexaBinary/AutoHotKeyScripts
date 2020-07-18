@@ -1,0 +1,3 @@
+"::
+MouseClick, Middle
+Return
