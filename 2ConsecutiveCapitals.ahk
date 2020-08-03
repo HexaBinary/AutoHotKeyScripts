@@ -7,7 +7,7 @@
 
 ; The first line of code below is the set of letters, digits, and/or symbols
 ; that are eligible for this type of correction.  Customize if you wish:
-keys = abcdefghijklmnopqrstuvwxyz.
+keys = abcdefghijklmnopqrstuvwxyz
 Loop Parse, keys
     HotKey ~+%A_LoopField%, Hoty
 Hoty:
