@@ -1,7 +1,8 @@
 Loop
 {
 Send 1
-Sleep 230
+Sleep 1000
+Send {Enter}
 }
 return
 
